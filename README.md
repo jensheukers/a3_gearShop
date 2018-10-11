@@ -1,5 +1,5 @@
 # Arma 3 Gearshop
-Arma 3 Gearshop is a shop system for altis life / NoPixel based servers (Should work on both).
+Arma 3 Gearshop is a shop system for altis life / NoPixel based mission-files (Should work on both).
 The script was used for a server that was to be developed but never released, Therefor I am releasing my script to the public.
 
 Enjoy! :)
